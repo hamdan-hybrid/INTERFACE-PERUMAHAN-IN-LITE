@@ -1,0 +1,5 @@
+*.sh  text eol=lf
+*.bin binary
+*.mp3 binary
+*.apk binary
+tools/esptool-linux-x64 binary
